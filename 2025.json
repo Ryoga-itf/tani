@@ -5,7 +5,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB13624",
@@ -13,7 +14,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB13704",
@@ -21,7 +23,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB26503",
@@ -29,7 +32,8 @@
     "credits": " 3.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB30411",
@@ -37,7 +41,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB31121",
@@ -45,7 +50,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB31611",
@@ -53,7 +59,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB31801",
@@ -61,7 +68,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB41104",
@@ -69,7 +77,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GC51101",
@@ -77,7 +86,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "C0",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB13614",
@@ -85,7 +95,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB20602",
@@ -93,7 +104,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB22011",
@@ -101,7 +113,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB22021",
@@ -109,7 +122,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB26403",
@@ -117,7 +131,8 @@
     "credits": " 3.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB30201",
@@ -125,7 +140,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB30311",
@@ -133,7 +149,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB31111",
@@ -141,7 +158,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB40111",
@@ -149,7 +167,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB40301",
@@ -157,7 +176,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB40411",
@@ -165,7 +185,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GB41611",
@@ -173,7 +194,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "GC52801",
@@ -181,7 +203,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "W890111",
@@ -189,7 +212,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   },
   {
     "id": "YBL2112",
@@ -197,6 +221,7 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "履修中"
+    "grade": "履修中",
+    "repo": null
   }
 ]

@@ -5,7 +5,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "C"
+    "grade": "C",
+    "repo": null
   },
   {
     "id": "2107173",
@@ -13,7 +14,8 @@
     "credits": " 0.5",
     "type": "通常",
     "category": "C",
-    "grade": "C"
+    "grade": "C",
+    "repo": null
   },
   {
     "id": "31KG112",
@@ -21,7 +23,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "31LG112",
@@ -29,7 +32,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "6524102",
@@ -37,7 +41,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "AE56A11",
@@ -45,7 +50,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "D"
+    "grade": "D",
+    "repo": null
   },
   {
     "id": "CE28071",
@@ -53,7 +59,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "FH61141",
@@ -61,7 +68,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "GA12301",
@@ -69,7 +77,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GA13501",
@@ -77,7 +86,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GA14301",
@@ -85,7 +95,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "B"
+    "grade": "B",
+    "repo": null
   },
   {
     "id": "GA15321",
@@ -93,7 +104,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "C"
+    "grade": "C",
+    "repo": null
   },
   {
     "id": "GA18212",
@@ -101,7 +113,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GA18312",
@@ -109,7 +122,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GB11931",
@@ -117,7 +131,8 @@
     "credits": " 3.0",
     "type": "通常",
     "category": "B",
-    "grade": "B"
+    "grade": "B",
+    "repo": null
   },
   {
     "id": "GB13024",
@@ -125,7 +140,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GB13332",
@@ -133,7 +149,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GB27001",
@@ -141,7 +158,8 @@
     "credits": " 1.0",
     "type": "集中",
     "category": "A",
-    "grade": "B"
+    "grade": "B",
+    "repo": "Ryoga-exe/miniz"
   },
   {
     "id": "1118302",
@@ -149,7 +167,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "P"
+    "grade": "P",
+    "repo": null
   },
   {
     "id": "1227591",
@@ -157,7 +176,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "P"
+    "grade": "P",
+    "repo": "Ryoga-itf/izanai"
   },
   {
     "id": "2125163",
@@ -165,7 +185,8 @@
     "credits": " 0.5",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "31HG112",
@@ -173,7 +194,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "31JG112",
@@ -181,7 +203,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "6124101",
@@ -189,7 +212,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "6424102",
@@ -197,7 +221,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "AE56A31",
@@ -205,7 +230,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "C0",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GA12111",
@@ -213,7 +239,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "GA12201",
@@ -221,7 +248,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GA12401",
@@ -229,7 +257,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "GA13401",
@@ -237,7 +266,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GA14111",
@@ -245,7 +275,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "GA14201",
@@ -253,7 +284,8 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "B",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "GA15121",
@@ -261,7 +293,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "A"
+    "grade": "A",
+    "repo": null
   },
   {
     "id": "GA15221",
@@ -269,7 +302,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "B"
+    "grade": "B",
+    "repo": null
   },
   {
     "id": "GB11601",
@@ -277,7 +311,8 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "B",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   },
   {
     "id": "GB22031",
@@ -285,6 +320,7 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "A+"
+    "grade": "A+",
+    "repo": null
   }
 ]
