@@ -11,7 +11,8 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 ---
 
-use std::{collections::HashMap, env, error::Error, fs::File, io::Write};
+use std::{collections::HashMap, env, error::Error, fs::File, io::{BufReader, Write}};
+use serde_json::from_reader;
 use serde::{Serialize, Deserialize};
 use csv::ReaderBuilder;
 
@@ -41,21 +42,27 @@ struct Subject {
     r#type: String,
     category: String,
     grade: String,
+    repo: Option<String>,
 }
 
 fn convert(input: &str) -> Result<(), Box<dyn Error>> {
     let mut rdr = ReaderBuilder::new().from_path(input)?;
     let mut subjects_by_year = HashMap::<String, Vec<Subject>>::new();
 
+    let file = File::open("repos.json")?;
+    let reader = BufReader::new(file);
+    let repos: HashMap<String, String> = from_reader(reader).expect("Failed to read repos.json");
+
     for result in rdr.deserialize() {
         let record: Record = result?;
         let subject = Subject {
-            id: record.subject_id,
+            id: record.subject_id.clone(),
             name: record.subject_name,
             credits: record.credits,
             r#type: record.subject_type,
             category: record.subject_category,
             grade: record.grade,
+            repo: repos.get(&record.subject_id).map(|x| x.clone()),
         };
         subjects_by_year
             .entry(record.year)
