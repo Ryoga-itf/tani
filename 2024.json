@@ -1,0 +1,250 @@
+[
+  {
+    "id": "2223253",
+    "name": "応用体育ダンス(秋)",
+    "credits": " 0.5",
+    "type": "通常",
+    "category": "C",
+    "grade": "B"
+  },
+  {
+    "id": "GA10201",
+    "name": "知的財産概論",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB10524",
+    "name": "微分方程式",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB11966",
+    "name": "データ構造とアルゴリズム実験",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB12017",
+    "name": "論理回路演習",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB12201",
+    "name": "電気回路",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "C"
+  },
+  {
+    "id": "GB12401",
+    "name": "システム制御概論",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB13312",
+    "name": "情報特別演習I",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A"
+  },
+  {
+    "id": "GB19061",
+    "name": "専門英語基礎",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB20401",
+    "name": "オートマトンと形式言語",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "B"
+  },
+  {
+    "id": "GB30504",
+    "name": "プログラム言語処理",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A"
+  },
+  {
+    "id": "GB40601",
+    "name": "情報理論",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "B"
+  },
+  {
+    "id": "GC24101",
+    "name": "情報デザインI",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "A+"
+  },
+  {
+    "id": "YBJ1522",
+    "name": "メディアアート・フィジカルコンピューティング",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "A"
+  },
+  {
+    "id": "2223243",
+    "name": "応用体育ダンス(春)",
+    "credits": " 0.5",
+    "type": "通常",
+    "category": "C",
+    "grade": "B"
+  },
+  {
+    "id": "GB10244",
+    "name": "線形代数B",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB10454",
+    "name": "微分積分B",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB10804",
+    "name": "論理回路",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB11964",
+    "name": "コンピュータとプログラミング",
+    "credits": " 3.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GB12301",
+    "name": "数値計算法",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB12601",
+    "name": "論理と形式化",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB12801",
+    "name": "論理システム",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GB12812",
+    "name": "論理システム演習",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GB20501",
+    "name": "プログラム理論",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "B"
+  },
+  {
+    "id": "GB21201",
+    "name": "プログラム言語論",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A+"
+  },
+  {
+    "id": "GB22401",
+    "name": "インタラクティブCG",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A+"
+  },
+  {
+    "id": "GB22621",
+    "name": "情報可視化",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "C"
+  },
+  {
+    "id": "GB30101",
+    "name": "コンピュータネットワーク",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A"
+  },
+  {
+    "id": "GB31401",
+    "name": "システムプログラム",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A+"
+  },
+  {
+    "id": "GC27701",
+    "name": "ACPC連携講座: ライブ・コンテンツ論",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "B"
+  },
+  {
+    "id": "YAL1012",
+    "name": "グラフィックツール基礎演習",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "A+"
+  }
+]

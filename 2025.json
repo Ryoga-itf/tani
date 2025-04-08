@@ -1,0 +1,202 @@
+[
+  {
+    "id": "GB13322",
+    "name": "情報特別演習II",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB13624",
+    "name": "Computer Science in English B",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB13704",
+    "name": "コンピュータグラフィックス基礎",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB26503",
+    "name": "ソフトウェアサイエンス実験B",
+    "credits": " 3.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB30411",
+    "name": "オペレーティングシステム",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB31121",
+    "name": "並列処理アーキテクチャII",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB31611",
+    "name": "データベース概論B",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB31801",
+    "name": "オペレーティングシステムII",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB41104",
+    "name": "アドバンストCG",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GC51101",
+    "name": "音楽・音響情報処理",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB13614",
+    "name": "Computer Science in English A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB20602",
+    "name": "プログラミングチャレンジ",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB22011",
+    "name": "システム数理I",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB22021",
+    "name": "システム数理II",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB26403",
+    "name": "ソフトウェアサイエンス実験A",
+    "credits": " 3.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB30201",
+    "name": "計算機アーキテクチャ",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB30311",
+    "name": "データベース概論A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB31111",
+    "name": "並列処理アーキテクチャI",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB40111",
+    "name": "情報セキュリティ",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB40301",
+    "name": "ヒューマンインタフェース",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB40411",
+    "name": "信号処理",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GB41611",
+    "name": "自然言語処理",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中"
+  },
+  {
+    "id": "GC52801",
+    "name": "情報デザインII",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "履修中"
+  },
+  {
+    "id": "W890111",
+    "name": "衛生・公衆衛生学",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "履修中"
+  },
+  {
+    "id": "YBL2112",
+    "name": "エディトリアルデザイン演習",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "履修中"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "1226051",
+    "name": "筑波大学特別講義―大学と学問―",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "C"
+  },
+  {
+    "id": "2107173",
+    "name": "基礎体育空手(秋)",
+    "credits": " 0.5",
+    "type": "通常",
+    "category": "C",
+    "grade": "C"
+  },
+  {
+    "id": "31KG112",
+    "name": "English Reading Skills II",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "31LG112",
+    "name": "English Presentation Skills II",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "6524102",
+    "name": "データサイエンス",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "AE56A11",
+    "name": "共生のための社会言語学",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "D"
+  },
+  {
+    "id": "CE28071",
+    "name": "発達障害の理解と支援",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "A+"
+  },
+  {
+    "id": "FH61141",
+    "name": "社会と最適化",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "A"
+  },
+  {
+    "id": "GA12301",
+    "name": "システムと情報科学",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GA13501",
+    "name": "コンテンツ入門",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GA14301",
+    "name": "図書館概論",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GA15321",
+    "name": "微分積分A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "C"
+  },
+  {
+    "id": "GA18212",
+    "name": "プログラミング入門A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GA18312",
+    "name": "プログラミング入門B",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GB11931",
+    "name": "データ構造とアルゴリズム",
+    "credits": " 3.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB13024",
+    "name": "オブジェクト指向プログラミング",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GB13332",
+    "name": "情報科学特別演習",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A+"
+  },
+  {
+    "id": "GB27001",
+    "name": "ソフトウェアサイエンス特別講義A",
+    "credits": " 1.0",
+    "type": "集中",
+    "category": "A",
+    "grade": "B"
+  },
+  {
+    "id": "1118302",
+    "name": "ファーストイヤーセミナー",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "P"
+  },
+  {
+    "id": "1227591",
+    "name": "学問への誘い",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "P"
+  },
+  {
+    "id": "2125163",
+    "name": "基礎体育テニス(春)",
+    "credits": " 0.5",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "31HG112",
+    "name": "English Reading Skills I",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "31JG112",
+    "name": "English Presentation Skills I",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A+"
+  },
+  {
+    "id": "6124101",
+    "name": "情報リテラシー(講義)",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "6424102",
+    "name": "情報リテラシー(演習)",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C",
+    "grade": "A"
+  },
+  {
+    "id": "AE56A31",
+    "name": "共生のための人類学",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "A+"
+  },
+  {
+    "id": "GA12111",
+    "name": "知能と情報科学",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GA12201",
+    "name": "計算と情報科学",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GA12401",
+    "name": "情報科学概論",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GA13401",
+    "name": "情報メディア入門",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GA14111",
+    "name": "知識情報概論",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GA14201",
+    "name": "知識情報システム概説",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GA15121",
+    "name": "情報数学A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A"
+  },
+  {
+    "id": "GA15221",
+    "name": "線形代数A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "B"
+  },
+  {
+    "id": "GB11601",
+    "name": "確率論",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+"
+  },
+  {
+    "id": "GB22031",
+    "name": "システム数理III",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "A+"
+  }
+]
