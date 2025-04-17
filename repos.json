@@ -6,7 +6,7 @@
   "GB21201": "Ryoga-itf/program-methodology",
   "GB12801": "Ryoga-itf/logic-system",
   "GB12812": "Ryoga-itf/logic-system",
-  "YBJ1522": "Ryoga-itf/physical-computing",
+  "YBJ1522": "Ryoga-itf/media-art-workshop",
   "GB10524": "Ryoga-itf/differential-equations",
   "GB12017": "Ryoga-itf/logic-circuit",
   "GB11966": "Ryoga-itf/dsa",
@@ -14,5 +14,8 @@
   "GB40601": "Ryoga-itf/information-theory",
   "GB11964": "Ryoga-itf/compro",
   "GB27001": "Ryoga-exe/miniz",
-  "GB13312": "Ryoga-exe/habush"
+  "GB13312": "Ryoga-exe/habush",
+  "GB30504": "Ryoga-itf/pusho",
+  "GB20501": "Ryoga-itf/program-theory",
+  "YBJ1512": "Ryoga-itf/media-art-workshop"
 }

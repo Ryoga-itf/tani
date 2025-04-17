@@ -96,7 +96,7 @@
     "type": "通常",
     "category": "A",
     "grade": "A",
-    "repo": null
+    "repo": "Ryoga-itf/pusho"
   },
   {
     "id": "GB40601",
@@ -123,7 +123,7 @@
     "type": "通常",
     "category": "C0",
     "grade": "A",
-    "repo": "Ryoga-itf/physical-computing"
+    "repo": "Ryoga-itf/media-art-workshop"
   },
   {
     "id": "2223243",
@@ -213,7 +213,7 @@
     "type": "通常",
     "category": "A",
     "grade": "B",
-    "repo": null
+    "repo": "Ryoga-itf/program-theory"
   },
   {
     "id": "GB21201",
