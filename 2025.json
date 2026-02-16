@@ -33,7 +33,7 @@
     "type": "通常",
     "category": "A",
     "grade": "A+",
-    "repo": null
+    "repo": "Ryoga-itf/parallel-proc-arch2"
   },
   {
     "id": "GB31611",
@@ -51,7 +51,7 @@
     "type": "通常",
     "category": "A",
     "grade": "履修中",
-    "repo": null
+    "repo": "Ryoga-itf/os2"
   },
   {
     "id": "GB37001",
@@ -78,7 +78,7 @@
     "type": "通常",
     "category": "C0",
     "grade": "履修中",
-    "repo": null
+    "repo": "Ryoga-itf/music-processing"
   },
   {
     "id": "YBQ5011",
@@ -150,7 +150,7 @@
     "type": "通常",
     "category": "A",
     "grade": "A",
-    "repo": null
+    "repo": "Ryoga-itf/information-security"
   },
   {
     "id": "GB40301",
@@ -159,7 +159,7 @@
     "type": "通常",
     "category": "A",
     "grade": "B",
-    "repo": null
+    "repo": "Ryoga-itf/human-computer-interaction"
   },
   {
     "id": "GB40411",
@@ -186,7 +186,7 @@
     "type": "通常",
     "category": "C0",
     "grade": "A",
-    "repo": null
+    "repo": "Ryoga-itf/information-design"
   },
   {
     "id": "YAL1022",
