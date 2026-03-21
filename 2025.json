@@ -5,7 +5,16 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中",
+    "grade": "A+",
+    "repo": null
+  },
+  {
+    "id": "GB13903",
+    "name": "インターンシップI",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "B",
+    "grade": "A+",
     "repo": null
   },
   {
@@ -14,7 +23,7 @@
     "credits": " 3.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中",
+    "grade": "A",
     "repo": null
   },
   {
@@ -50,7 +59,7 @@
     "credits": " 1.0",
     "type": "通常",
     "category": "A",
-    "grade": "履修中",
+    "grade": "A+",
     "repo": "Ryoga-itf/os2"
   },
   {
@@ -59,7 +68,7 @@
     "credits": " 1.0",
     "type": "集中",
     "category": "A",
-    "grade": "履修中",
+    "grade": "A+",
     "repo": null
   },
   {
@@ -77,7 +86,7 @@
     "credits": " 2.0",
     "type": "通常",
     "category": "C0",
-    "grade": "履修中",
+    "grade": "B",
     "repo": "Ryoga-itf/music-processing"
   },
   {
