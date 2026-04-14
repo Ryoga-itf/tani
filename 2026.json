@@ -1,0 +1,119 @@
+[
+  {
+    "id": "GB19101",
+    "name": "専門語学B",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "GB19958",
+    "name": "卒業研究B",
+    "credits": " 3.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0AL5325",
+    "name": "Webアプリケーションセキュリティ",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0AL5406",
+    "name": "システム最適化",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0AL5411",
+    "name": "ヒューマンインタフェース特論I",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0AL5414",
+    "name": "プログラム言語特論",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0AL5416",
+    "name": "音声メディア工学特論",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0AL5440",
+    "name": "暗号理論特論II",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "0ALD502",
+    "name": "組込みプログラム開発",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "5Y",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "GB19091",
+    "name": "専門語学A",
+    "credits": " 2.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "GB19948",
+    "name": "卒業研究A",
+    "credits": " 3.0",
+    "type": "通常",
+    "category": "C0",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "GB22011",
+    "name": "システム数理I",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中",
+    "repo": null
+  },
+  {
+    "id": "GB41611",
+    "name": "自然言語処理",
+    "credits": " 1.0",
+    "type": "通常",
+    "category": "A",
+    "grade": "履修中",
+    "repo": null
+  }
+]
